@@ -1,0 +1,11 @@
+*.txt
+build/**
+CMakeFiles/**
+*.swp
+*.nro
+*.nso
+*.elf
+*.nacp
+*.pfs0
+ClangProjects
+*.cmake
